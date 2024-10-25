@@ -1,0 +1,2 @@
+Name: Jane, Surname: Doe, Email: jane@example.com, Phone: 0893787483, ID: 00000001, Password: 12345
+Name: James, Surname: Doe, Email: james@example.com, Phone: 038358584546, ID: 0000000002, Password: 00000

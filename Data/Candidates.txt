@@ -1,0 +1,2 @@
+Name: Nkosinathi, Surname: Tshabalala, Email: nath@example.com, Phone: 083668348354, Party Affiliation: Independent, Election: Election Name: Acsse Treasurer, Election Date: 2024-05-20
+Name: John, Surname: Smith, Email: j@example.com, Phone: 08754873556, Party Affiliation: UJ, Election: Election Name: Acsse Treasurer, Election Date: 2024-05-20

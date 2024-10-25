@@ -1,0 +1,3 @@
+Block{previousHash='0', transactions=[], hash='32369d15916932bd1adeec0cae9f32f5ded2cccd29d81d7eec27066c813e39d', nonce=0}
+Block{previousHash='32369d15916932bd1ade51c0cae9f32f5ded2cccd29d81d7eec27066c813e39d', transactions=[Transaction{sender='', receiver='', data=Voter: James, Election: Election Name: Acsse Treasurer, Election Date: 2024-05-20, Candidate: John Smith (UJ), timestamp=1715776649052}], hash='0a3e4a6ca6456164915124f38977429a216718d3e899d0f693af35dbdfdbec0e', nonce=75440719}
+
